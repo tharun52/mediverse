@@ -41,9 +41,9 @@ The chatbot can provide personalized guidance on past interactions and demograph
 - Ease Of Management:
 The various backend tools allow for easy management of the database by administrators.
 
-## Team Member Details
-Team Lead - Kanishkaran M
-Team Member 1 - Jeffrey Terrance Daniel I
-Team Member 2 - Shreeram T
-Team Member 3 - Tharun E 
+## Contributors
+[Kanishkaran M](github.com/kanishkaran)
+[Jeffrey Terrance Daniel I](github.com/jeffreydaniel)
+[Shreeram T](github.com/tshreeram)
+[Tharun E](github.com/tharun52) 
 
