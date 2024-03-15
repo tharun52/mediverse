@@ -42,8 +42,8 @@ The chatbot can provide personalized guidance on past interactions and demograph
 The various backend tools allow for easy management of the database by administrators.
 
 ## Contributors
-[Kanishkaran M](github.com/kanishkaran)
-[Jeffrey Terrance Daniel I](github.com/jeffreydaniel)
-[Shreeram T](github.com/tshreeram)
-[Tharun E](github.com/tharun52) 
+- [Kanishkaran M](https://www.github.com/kanishkaran)
+- [Jeffrey Terrance Daniel I](https://www.github.com/jeffreydaniel)
+- [Shreeram T](https://www.github.com/tshreeram)
+- [Tharun E](https://www.github.com/tharun52) 
 
