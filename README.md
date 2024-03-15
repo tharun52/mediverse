@@ -17,9 +17,9 @@
 - **Stock Management Module:** Database: MySQL, Backend: Node.js, Python (Django)
 - **Order Processing Module:** Backend: Node.js, Python (Django)
 - **LLM Module**
-## Installation
 
-[Include instructions on how to install and set up the chatbot. This may include installation of dependencies, setup of environment variables, etc.]
+## Work Flow
+
 
 ## Usage
 
